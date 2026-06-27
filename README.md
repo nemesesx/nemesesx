@@ -12,9 +12,9 @@
 
 - 🔧 7 years building **scalable backend systems, ERP platforms, and RESTful APIs**
 - 🏢 Currently a **Senior Software Engineer / Backend Lead** at **Nextbridge Ltd**, maintaining and evolving backend repositories for a large ERP system
-- 🌍 Previously shipped backend systems for clients across the **US, Europe, and Australia** — commerce platforms, betting sites, streaming services, real estate marketplaces, and on-demand service apps
+- 🌍 Previously shipped backend systems for clients across the **US, Europe, and Australia**, commerce platforms, betting sites, streaming services, real estate marketplaces, and on-demand service apps
 - 🏆 **Microsoft Imagine Cup 2019** National Finalist
-- 💬 Open to remote opportunities — happy to overlap with US/EU/Gulf working hours
+- 💬 Open to remote opportunities
 
 ---
 
