@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Abdul Rehman Khokhar 👋</h1>
-<h3 align="center">Senior Backend Engineer · PHP & Laravel Specialist</h3>
+<h3 align="center">Senior Backend Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arkhkh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
